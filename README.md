@@ -1,4 +1,4 @@
-### Olaá eu sou Kaylane Silva, estudante de Desenvovilmento Web!!!🖥️
+### Olá eu sou Kaylane Silva, estudante de Desenvovilmento Web!!!🖥️
 <div align="center">
   <a href="https://github.com/KaylaneSilva">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=KaylaneSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
