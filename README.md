@@ -1,4 +1,9 @@
-### Olá eu sou Kaylane Silva, estudante de Desenvovilmento Web!!!🖥️
+### Olá eu sou Kaylane Silva!!🖥️
+
+##
+  ##### Sou uma amante de tecnologia e de códigos. Meu objetivo atual é me inserir no mercado de trabalho como desenvolvedora Front-End, e atuar em um ambiente onde eu possa crescer profissionalmente e aprender cada vez mais. 
+##
+
 <div align="center">
   <a href="https://github.com/KaylaneSilva">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=KaylaneSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -6,12 +11,26 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaylane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kaylane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kaylane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaylane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaylane-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="Kaylane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Kaylane-Redux" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"
+  > 
+  <img align="center" alt="Kaylane-Next.js" height="30" width="40"
+       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"
+  >
+  <img align="center" alt="Kaylane-Jest" height="30" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"> 
   <img align="center" alt="Kaylane-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-  <img align="right" alt="Kaylane-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/935207613543624835/935208127668830318/GIFPAL-20220124131527.gif">
+  <img align="center" alt="Kaylane-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="Kaylane-Photoshop" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"
+  >
+  <img align="center" alt="Kaylane-Linux" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"
+  >
+  <img align="right" alt="Kaylane-Gif" height="150" style="border-radius:50px;"             src="https://cdn.discordapp.com/attachments/935207613543624835/935208127668830318/GIFPAL-20220124131527.gif">
 </div>
   
  ##
