@@ -8,6 +8,9 @@
  </ul>
  
 ##
+<div style="display: inline_block"><br>
+  <img align="right" alt="Kaylane-Gif" height="150" style="border-radius:50px;"             src="https://cdn.discordapp.com/attachments/935207613543624835/935208127668830318/GIFPAL-20220124131527.gif">
+  </div>
 
 #### Languages e Tools
 <div style="display: inline_block"><br>
@@ -34,15 +37,14 @@
   <img align="center" alt="Kaylane-Docker" height="60" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"
   >
-  <img align="right" alt="Kaylane-Gif" height="150" style="border-radius:50px;"             src="https://cdn.discordapp.com/attachments/935207613543624835/935208127668830318/GIFPAL-20220124131527.gif">
 </div>
 
  ##
 
   <div align="center">
     <a href="https://github.com/KaylaneSilva">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=KaylaneSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaylaneSilva&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="210" src="https://github-readme-stats.vercel.app/api?username=KaylaneSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaylaneSilva&layout=compact&langs_count=7&theme=dracula"/>
   </div>
  
  ##
