@@ -3,8 +3,9 @@
 ##
 
 <ul>
-  <li> 💻 Sou uma estudante da Trybe. Desenvolvedora frontend. </li>
-  <li> :green_book: Atualmente estudando backend. </li>
+  <li> 💻 Desenvolvedora Full Stack. </li>
+  <li> 👩‍💻 Desenvolverora Front End no Mercado Livre. </li>
+  <li> 👩‍🎓 Formada em Desenvolvimento Full Stack na Trybe. </li>
  </ul>
  
 ##
@@ -22,9 +23,7 @@
   <img align="center" alt="Kaylane-Redux" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"
   > 
-  <img align="center" alt="Kaylane-Next.js" height="30" width="40"
-       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"
-  >
+  <img align="center" alt="Kaylane-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Kaylane-Jest" height="30" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"> 
   <img align="center" alt="Kaylane-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
   <img align="center" alt="Kaylane-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
