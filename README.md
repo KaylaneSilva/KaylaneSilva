@@ -6,6 +6,7 @@
   <li> 💻 Desenvolvedora Full Stack. </li>
   <li> 👩‍💻 Desenvolverora Front End no Mercado Livre. </li>
   <li> 👩‍🎓 Formada em Desenvolvimento Full Stack na Trybe. </li>
+  <li> 📚 Sempre aprendendo e em busca do próximo desafio que gere um impacto positivo. </li>
  </ul>
  
 ##
